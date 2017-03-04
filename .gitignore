@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+myvenu
+myvenv
+db.sqlite3
+.DS_Store
